@@ -23,7 +23,6 @@ $(function () {
             $.ajax({
                 url: "/assets/mail/contact_me.php",
                 type: "POST",
-                contentType: "application/json; charset=utf-8",
                 data: {
                     name: name,
                     phone: phone,
