@@ -1949,7 +1949,7 @@ pre code {
 }
 @media (max-width: 1199.98px) {
   [class*="col-"] {
-      margin-bottom: 1.75rem;
+      margin-bottom: 20px;
   }
   .table-responsive-xl {
     display: block;
