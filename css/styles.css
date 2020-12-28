@@ -1948,9 +1948,6 @@ pre code {
   }
 }
 @media (max-width: 1199.98px) {
-  [class*="col-"] {
-      margin-bottom: 20px;
-  }
   .table-responsive-xl {
     display: block;
     width: 100%;
