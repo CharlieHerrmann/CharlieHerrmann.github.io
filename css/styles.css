@@ -10112,6 +10112,12 @@ figcaption {
 .divider-custom .divider-custom-line2:last-child {
   margin-left: 1rem;
 }
+.divider-custom .divider-custom-line3:first-child {
+  margin-right: 1rem;
+}
+.divider-custom .divider-custom-line3:last-child {
+  margin-left: 1rem;
+}
 .divider-custom .divider-custom-icon {
   color: #2c3e50 !important;
   font-size: 2rem;
@@ -10120,6 +10126,9 @@ figcaption {
   background-color: #fff;
 }
 .divider-custom.divider-light .divider-custom-line2 {
+  background-color: #fff;
+}
+.divider-custom.divider-light .divider-custom-line3 {
   background-color: #fff;
 }
 .divider-custom.divider-light .divider-custom-icon {
